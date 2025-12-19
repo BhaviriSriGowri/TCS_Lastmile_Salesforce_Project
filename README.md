@@ -1,5 +1,5 @@
-# 🏥 MediCare Connect
-*Patient Appointment & Follow-Up CRM (Salesforce Lightning)*
+# 🏥 HealthConnect – Salesforce-Based Healthcare CRM
+Patient Appointment & Follow-Up CRM (Salesforce Lightning)
 
 MediCare Connect is a healthcare CRM application built using Salesforce Lightning. It helps healthcare providers efficiently manage doctor availability, patient appointment scheduling, medical case management, and follow-ups.
 The system centralizes healthcare operations while ensuring security, automation, and scalability.
